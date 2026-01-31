@@ -1,8 +1,8 @@
-Employee Productivity & Work-Life Balance Analysis
+**Employee Productivity & Work-Life Balance Analysis**
 
 This repository contains an Exploratory Data Analysis (EDA) project focused on the intricate relationship between working conditions, employee well-being, and overall productivity. The study utilizes multiple datasets to explore how factors like remote work, income, and stress levels influence modern workplace performance.
 
-📋 Table of Contents
+****📋 Table of Contents**
 
 Problem Statement
 
@@ -10,17 +10,17 @@ Datasets Overview
 
 Key Visualizations
 
-Conclusion
+Conclusion**
 
 Group Members
 
 References
 
-🎯 Problem Statement
+**🎯 Problem Statement**
 
 Modern employees face significant hurdles in balancing long working hours with sleep and mental health. These challenges directly impact job satisfaction and productivity. The primary goal of this project is to analyze how these variables interact to help companies optimize work-life balance while maintaining high performance.
 
-📊 Datasets Overview
+**📊 Datasets Overview**
 
 The analysis is based on three primary data sources:
 
@@ -36,8 +36,8 @@ Impact of Remote Work on Mental Health (5,000 Rows): Covers Work Location, Stres
 
 Remote Work Productivity Dataset (1,000 Rows): Tracks Employment Type, Productivity Scores, and Well-Being Scores.
 
-📈 Key Visualizations
-
+**📈 Key Visualizations
+**
 The project employs various statistical charts to uncover trends:
 
 Univariate Analysis

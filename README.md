@@ -1,3 +1,9 @@
+<img width="1274" height="771" alt="Screenshot 2026-02-09 162802" src="https://github.com/user-attachments/assets/067dc915-3c0a-4526-a452-2e4d59d9ac4e" />
+<img width="1265" height="774" alt="Screenshot 2026-02-09 162811" src="https://github.com/user-attachments/assets/e313cc53-46cd-4783-8291-bac6a2a9ad2d" />
+<img width="1270" height="775" alt="Screenshot 2026-02-09 162749" src="https://github.com/user-attachments/assets/5b830b18-9e70-4ec4-82ae-a20b9c7b5adb" />
+<img width="1275" height="763" alt="Screenshot 2026-02-09 162739" src="https://github.com/user-attachments/assets/9ffe218e-a272-45a7-95e0-12ff9f98aaf2" />
+<img width="1333" height="756" alt="Screenshot 2026-02-09 162727" src="https://github.com/user-attachments/assets/0888c8fe-a206-41af-8e49-b82505d8cd33" />
+<img width="1339" height="778" alt="Screenshot 2026-02-09 162716" src="https://github.com/user-attachments/assets/3e720c92-af5f-44ce-bbbf-989c697ec6fc" />
 **Employee Productivity & Work-Life Balance Analysis**
 
 This repository contains an Exploratory Data Analysis (EDA) project focused on the intricate relationship between working conditions, employee well-being, and overall productivity. The study utilizes multiple datasets to explore how factors like remote work, income, and stress levels influence modern workplace performance.
